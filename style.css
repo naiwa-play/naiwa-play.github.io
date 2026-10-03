@@ -3,3 +3,7 @@
 
 /* Equal canvas scales on each axis; mobile controls have no selectable text. */
 .run-rewards{display:flex;gap:16px;align-items:center;padding:14px 4px 0;font-size:12px;font-weight:700;color:var(--ink)}.run-rewards>span:first-child{color:#856414}.run-rewards>span:last-child{margin-left:auto}.control,.control *,.arcade{-webkit-user-select:none;user-select:none;-webkit-touch-callout:none}.control{touch-action:none}.control img{width:140px;height:52px;pointer-events:none;-webkit-user-drag:none;user-select:none}.control:active{background:#c7dbb9}.control.jump:active{background:#ffe879}@media(max-width:600px){.stage{height:auto;aspect-ratio:3/2}.overlay h2{font-size:21px;margin-top:5px}.overlay p{margin:5px 0 10px;font-size:11px}.overlay .hint{margin-top:10px;font-size:10px}.primary{min-height:44px;padding:8px 18px}.touch-controls{margin-top:14px}.run-rewards{gap:8px;font-size:10px}.control{padding:4px;min-height:76px}}
+
+/* All devices share the same world, speed, obstacle sizes and jump timing. */
+.stage{height:auto;aspect-ratio:2/1}@media(max-width:600px){.stage{height:auto;aspect-ratio:2/1}.header-actions{gap:4px}.header-actions button{padding:8px 6px;font-size:11px}.brand{font-size:16px;gap:5px}.brand img{width:27px;height:27px}.overlay h2{font-size:19px;margin:3px 0}.overlay p{margin:3px 0 7px}.overlay .hint{margin-top:7px}.primary{min-height:38px;padding:6px 16px}}
+.control{min-width:0}.control img{max-width:100%;object-fit:contain}
