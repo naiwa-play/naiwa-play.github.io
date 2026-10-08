@@ -1,5 +1,4 @@
 Voice source: https://github.com/Diyeego/naiwa-pet
 Files: naiwa/voice/laugh.mp3 -> duck-laugh.mp3; naiwa/voice/gagadilaxia.mp3 -> jump-gaga.mp3
 Downloaded 2026-10-03. Source README: learning/exchange use only, not commercial use. No general redistribution license asserted here.
-Music: naiwa-meadow.wav, original synthesized melody composed for this game, 112 BPM, 8-bar loop, generated locally. No external music recording used.
 
